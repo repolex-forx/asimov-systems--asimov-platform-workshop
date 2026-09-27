@@ -1,0 +1,11 @@
+{
+  "org": "asimov-systems",
+  "repo": "asimov-platform-workshop",
+  "versions": [
+    {
+      "commit": "954eb7c6b5bfecc658789f0575b0a5dfd0afea0c",
+      "tag": "master",
+      "parsed_at": "2026-09-27T19:37:57.068838+00:00"
+    }
+  ]
+}
